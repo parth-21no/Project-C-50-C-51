@@ -1,0 +1,24 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+     top: 50%;
+     bottom: 50%;
+     background-color: darkgoldenrod;
+}
+
+.origami{
+    border: double;
+    display: flexbox;
+    size: 100pt;
+}
+.aboutme{
+    text-align: center;
+    background: dodgerblue;
+}
+
+.i {
+    text-align: left;
+}
+
+
